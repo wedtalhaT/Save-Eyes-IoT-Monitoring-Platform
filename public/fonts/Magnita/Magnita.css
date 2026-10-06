@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Magnita';
+    font-weight: normal;
+    src: url('fonts/Magnita.html');
+    src: url('fonts/Magnitad41d.html?#iefix') format('embedded-opentype'),
+         url('fonts/Magnita-2.html') format('woff2'),
+         url('fonts/Magnita-3.html') format('woff'),
+         url('fonts/Magnita-4.html')  format('truetype'),
+         url('fonts/Magnita-5.html#Magnita') format('svg');
+}
